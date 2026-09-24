@@ -1,0 +1,12 @@
+{
+  "id": "default",
+  "name": "唐山校园网",
+  "username": "YOUR_ACCOUNT",
+  "password": "ENC:REPLACE_WITH_ENCRYPTED_VALUE",
+  "auth_url": "http://61.240.139.120:18088/?userip=YOUR_IP&nasip=YOUR_NAS_IP&user-mac=YOUR_MAC_URLENCODED&user-vlan=YOUR_VLAN",
+  "trigger_url": "http://www.msftconnecttest.com/connecttest.txt",
+  "isp": "",
+  "gateway_ip": "",
+  "wifi_ssid": "",
+  "active_task": "ts-asiainfo-portal"
+}
